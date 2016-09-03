@@ -1,0 +1,27 @@
+name: The N-S-O
+layout_spectrum: 0.3513949466869235
+typography_spectrum: 0.6649299815762788
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
+color:
+  brandColors:
+    - '#d1cdc2'
+    - '#262521'
+    - '#695b53'
+    - '#80c6f5'
+    - '#8e8c8f'
+  brandStrength: 0.75
+  lightness: 0.875
+  saturation: 0.4375
+  rhythmicContrast: 0
+purpose: []
+title: The Next Shiny Object
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
